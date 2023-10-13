@@ -6,5 +6,5 @@ export const Photo = styled.img`
 `;
 export const PhotoModal = styled.img`
   width: 70vw;
-  height: 70vh;
+  height: 90vh;
 `;
